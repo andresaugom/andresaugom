@@ -26,18 +26,14 @@ You can visit it [here](https://github.com/andresaugom/CSV-ORM).
 ### **Skiliket IoT Environmental System**
 Large-scale IoT architecture for collecting environmental data across the ZMG.  
 Built an ML pipeline for environmental prediction and deployed a full monitoring dashboard + edge device system.  
-➡️ Project page coming soon  
-➡️ Repos:  
-- [Dashboard](https://github.com/andresaugom/Skiliket-Dashboard)
-- [RPI4 System](https://github.com/andresaugom/Skiliket-RPI4)
+Visit it [here](https://github.com/andresaugom/Skiliket-IoT)
 
 ---
 
 ### **SplitPay – HackMTY Project (Top LatAm Hackathon)**
 Collaborative pay-splitting and expense management system developed during HackMTY with support from Capital One.  
 Full-stack architecture with real-time updates and a clean UX.  
-- [Frontend](https://github.com/andresaugom/SplitPay-F)
-- [Backend](https://github.com/andresaugom/SplitPay-B)
+Visit it [here](https://github.com/andresaugom/SplitPay)
 
 ---
 
