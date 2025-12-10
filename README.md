@@ -90,7 +90,7 @@ Built an ML pipeline for environmental prediction and deployed a full monitoring
 
 ### **SplitPay – HackMTY Project (Top LatAm Hackathon)**
 
-<img src="https://img.shields.io/badge/Hackathon-Winner-gold?style=flat-square&logo=trophy&logoColor=white" alt="Hackathon"/> <img src="https://img.shields.io/badge/Full--Stack-App-blue?style=flat-square" alt="Full-Stack"/>
+<img src="https://img.shields.io/badge/Hackathon-participant?style=flat-square&logo=trophy&logoColor=white" alt="Hackathon"/> <img src="https://img.shields.io/badge/Full--Stack-App-blue?style=flat-square" alt="Full-Stack"/>
 
 Collaborative pay-splitting and expense management system developed during HackMTY with support from Capital One.  
 Full-stack architecture with real-time updates and a clean UX.
