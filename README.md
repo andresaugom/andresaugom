@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Andres Gomez
+# Hi, I'm Andres Gomez
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CS+Undergraduate;AI+Systems+%7C+HPC+%7C+Low-Level+Dev;Building+the+Future+of+Computing" alt="Typing SVG" />
 
@@ -17,7 +17,7 @@ I work at the intersection of **C/C++ systems**, **machine learning**, and **qua
 
 <div align="center">
 
-## 🎯 Main Areas of Interest
+## Main Areas of Interest
 
 </div>
 
@@ -48,7 +48,7 @@ I work at the intersection of **C/C++ systems**, **machine learning**, and **qua
 
 <div align="center">
 
-## 💼 Projects
+## Projects
 
 </div>
 
@@ -58,7 +58,7 @@ I work at the intersection of **C/C++ systems**, **machine learning**, and **qua
 <tr>
 <td width="50%">
 
-### 📊 **CSV-ORM (C++ CSV ORM Library)**
+### **CSV-ORM (C++ CSV ORM Library)**
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/ORM-Library-brightgreen?style=flat-square" alt="ORM"/>
 
@@ -72,7 +72,7 @@ Implements strict typing, RAII-safe mutations, query pipelines, and complete fil
 </td>
 <td width="50%">
 
-### 🌐 **Skiliket IoT Environmental System**
+### **Skiliket IoT Environmental System**
 
 <img src="https://img.shields.io/badge/IoT-Architecture-orange?style=flat-square&logo=arduino&logoColor=white" alt="IoT"/> <img src="https://img.shields.io/badge/ML-Pipeline-green?style=flat-square&logo=python&logoColor=white" alt="ML"/>
 
@@ -88,7 +88,7 @@ Built an ML pipeline for environmental prediction and deployed a full monitoring
 <tr>
 <td width="50%">
 
-### 💰 **SplitPay – HackMTY Project (Top LatAm Hackathon)**
+### **SplitPay – HackMTY Project (Top LatAm Hackathon)**
 
 <img src="https://img.shields.io/badge/Hackathon-Winner-gold?style=flat-square&logo=trophy&logoColor=white" alt="Hackathon"/> <img src="https://img.shields.io/badge/Full--Stack-App-blue?style=flat-square" alt="Full-Stack"/>
 
@@ -102,7 +102,7 @@ Full-stack architecture with real-time updates and a clean UX.
 </td>
 <td width="50%">
 
-### 🔬 **Assistant in Evolutive AI Applied to Photonic Circuits research**
+### **Assistant in Evolutive AI Applied to Photonic Circuits research**
 
 <img src="https://img.shields.io/badge/Research-Next--Gen%20Scientists-purple?style=flat-square&logo=researchgate&logoColor=white" alt="Research"/>
 
@@ -113,7 +113,7 @@ Part of the *Next-Gen Scientists* program, contributing to research involving ev
 <tr>
 <td colspan="2">
 
-### ⚛️ **Quantum Computing Seminar Participant**
+### **Quantum Computing Seminar Participant**
 
 <img src="https://img.shields.io/badge/Quantum-Computing-blueviolet?style=flat-square&logo=qiskit&logoColor=white" alt="Quantum"/> <img src="https://img.shields.io/badge/Linear%20Algebra-Fundamentals-lightblue?style=flat-square" alt="Linear Algebra"/>
 
@@ -129,7 +129,7 @@ Produced and presented a structured introduction to quantum computing fundamenta
 
 <div align="center">
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 </div>
 
@@ -139,7 +139,7 @@ Produced and presented a structured introduction to quantum computing fundamenta
 <tr>
 <td align="center" width="25%">
 
-### **💻 Languages**
+### **Languages**
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -153,7 +153,7 @@ Produced and presented a structured introduction to quantum computing fundamenta
 </td>
 <td align="center" width="25%">
 
-### **🤖 Data & AI**
+### **Data & AI**
 
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -165,7 +165,7 @@ Produced and presented a structured introduction to quantum computing fundamenta
 </td>
 <td align="center" width="25%">
 
-### **⚙️ Backend & DevOps**
+### **Backend & DevOps**
 
 <p align="center">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -176,7 +176,7 @@ Produced and presented a structured introduction to quantum computing fundamenta
 </td>
 <td align="center" width="25%">
 
-### **🐧 Operating Systems**
+### **Operating Systems**
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -194,7 +194,7 @@ Produced and presented a structured introduction to quantum computing fundamenta
 
 <div align="center">
 
-## 🎯 Goals
+## Goals
 
 </div>
 
@@ -204,7 +204,7 @@ Produced and presented a structured introduction to quantum computing fundamenta
 <tr>
 <td width="50%" valign="top">
 
-### **🎓 Short-Term**
+### **Short-Term**
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 
@@ -215,7 +215,7 @@ Secure an internship in a major tech company during my 4th–5th semester.
 </td>
 <td width="50%" valign="top">
 
-### **🚀 Long-Term**
+### **Long-Term**
 
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px;">
 
@@ -233,7 +233,7 @@ Pursue a research stay in **HPC or Quantum Computing** and continue advancing to
 
 <div align="center">
 
-## 👨‍💻 About Me
+## About Me
 
 </div>
 
@@ -251,7 +251,7 @@ I enjoy building efficient systems, understanding how technology works at the lo
 
 <div align="center">
 
-## 📬 Contact
+## Contact
 
 </div>
 
