@@ -1,43 +1,50 @@
 <div align="center">
 
-# Hi, I'm Andres Gomez
+# Andres Gomez
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CS+Undergraduate;AI+Systems+%7C+HPC+%7C+Low-Level+Dev;Building+the+Future+of+Computing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0071C5&center=true&vCenter=true&width=620&lines=Systems+Engineer;Kernel+%7C+HPC+%7C+Computational+Architecture;Building+software+closer+to+the+metal" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-**CS undergraduate focused on AI systems, high-performance computing, and low-level software development.**  
-I work at the intersection of **C/C++ systems**, **machine learning**, and **quantum computing**, building projects that blend strong engineering fundamentals with research-oriented thinking.
+**CS undergraduate and Intel Cloud Software Engineer Intern.**  
+I work on low-level systems, OS internals, and high-performance computing —  
+building software where architecture decisions and hardware constraints actually matter.
 
 </div>
 
 <br>
 
+---
+
 <div align="center">
 
-## Main Areas of Interest
+## Focus Areas
 
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/HPC-High--Performance%20Computing-blue?style=for-the-badge&logo=apache&logoColor=white" alt="HPC"/>
-<br><b>High-Performance Computing (HPC)</b>
+<img src="https://img.shields.io/badge/Kernel-Linux%20Internals-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Kernel"/>
+<br><b>OS & Kernel Development</b>
+<br><sub>Linux internals, scheduling, memory management, driver architecture</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-green?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI"/>
-<br><b>Artificial Intelligence & Machine Learning</b>
+<img src="https://img.shields.io/badge/HPC-High--Performance%20Computing-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="HPC"/>
+<br><b>High-Performance Computing</b>
+<br><sub>Parallelism, vectorization, cache-aware design, workload optimization</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Quantum-Computing%20Foundations-purple?style=for-the-badge&logo=qiskit&logoColor=white" alt="Quantum"/>
-<br><b>Quantum Computing Foundations</b>
+<img src="https://img.shields.io/badge/Arch-Computational%20Architecture-E95420?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Architecture"/>
+<br><b>Computational Architecture</b>
+<br><sub>ISA design, microarchitecture, memory hierarchies, hardware-software co-design</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-Systems%20Programming-orange?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<br><b>C/C++ Systems Programming</b>
+<img src="https://img.shields.io/badge/AI-Systems%20Infrastructure-2E9EF7?style=for-the-badge&logo=python&logoColor=white" alt="AI Systems"/>
+<br><b>AI Systems & Infrastructure</b>
+<br><sub>Agentic workload analysis, ML pipelines, systems-level AI tooling</sub>
 </td>
 </tr>
 </table>
@@ -48,80 +55,23 @@ I work at the intersection of **C/C++ systems**, **machine learning**, and **qua
 
 <div align="center">
 
-## Projects
+## Current Role
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### **CSV-ORM (C++ CSV ORM Library)**
+<img src="https://img.shields.io/badge/Intel-Cloud%20Software%20Developer%20Engineer%20Intern-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel"/>
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/ORM-Library-brightgreen?style=flat-square" alt="ORM"/>
+<br><br>
 
-A lightweight ORM-style C++ library for treating CSV files as structured tables.  
-Implements strict typing, RAII-safe mutations, query pipelines, and complete file rewrite with rollback guarantees.  
+Working on cloud software infrastructure in **Python** and **C++**, with a focus on  
+**agentic AI workload analysis** — profiling, characterizing, and optimizing  
+how AI-driven workloads behave at the systems level.
 
-<a href="https://github.com/andresaugom/CSV-ORM">
-<img src="https://img.shields.io/badge/View%20Project-→-2E9EF7?style=for-the-badge" alt="View Project"/>
-</a>
-
-</td>
-<td width="50%">
-
-### **Skiliket IoT Environmental System**
-
-<img src="https://img.shields.io/badge/IoT-Architecture-orange?style=flat-square&logo=arduino&logoColor=white" alt="IoT"/> <img src="https://img.shields.io/badge/ML-Pipeline-green?style=flat-square&logo=python&logoColor=white" alt="ML"/>
-
-Large-scale IoT architecture for collecting environmental data across the ZMG.  
-Built an ML pipeline for environmental prediction and deployed a full monitoring dashboard + edge device system.
-
-<a href="https://github.com/andresaugom/Skiliket-IoT">
-<img src="https://img.shields.io/badge/View%20Project-→-2E9EF7?style=for-the-badge" alt="View Project"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### **SplitPay – HackMTY Project (Top LatAm Hackathon)**
-
-<img src="https://img.shields.io/badge/Hackathon-participant?style=flat-square&logo=trophy&logoColor=white" alt="Hackathon"/> <img src="https://img.shields.io/badge/Full--Stack-App-blue?style=flat-square" alt="Full-Stack"/>
-
-Collaborative pay-splitting and expense management system developed during HackMTY with support from Capital One.  
-Full-stack architecture with real-time updates and a clean UX.
-
-<a href="https://github.com/andresaugom/SplitPay">
-<img src="https://img.shields.io/badge/View%20Project-→-2E9EF7?style=for-the-badge" alt="View Project"/>
-</a>
-
-</td>
-<td width="50%">
-
-### **Assistant in Evolutive AI Applied to Photonic Circuits research**
-
-<img src="https://img.shields.io/badge/Research-Next--Gen%20Scientists-purple?style=flat-square&logo=researchgate&logoColor=white" alt="Research"/>
-
-Part of the *Next-Gen Scientists* program, contributing to research involving evolutionary algorithms and photonic circuit optimization.
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### **Quantum Computing Seminar Participant**
-
-<img src="https://img.shields.io/badge/Quantum-Computing-blueviolet?style=flat-square&logo=qiskit&logoColor=white" alt="Quantum"/> <img src="https://img.shields.io/badge/Linear%20Algebra-Fundamentals-lightblue?style=flat-square" alt="Linear Algebra"/>
-
-Produced and presented a structured introduction to quantum computing fundamentals, including the linear algebra basis and qubit formalism.
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -142,51 +92,70 @@ Produced and presented a structured introduction to quantum computing fundamenta
 ### **Languages**
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
 </td>
 <td align="center" width="25%">
 
-### **Data & AI**
-
-<p align="center">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-</p>
-
-</td>
-<td align="center" width="25%">
-
-### **Backend & DevOps**
-
-<p align="center">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
-</td>
-<td align="center" width="25%">
-
-### **Operating Systems**
+### **Systems & Performance**
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
-<img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/>
+<img src="https://img.shields.io/badge/GDB-gray?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB"/>
+<img src="https://img.shields.io/badge/perf-333333?style=for-the-badge&logo=linux&logoColor=white" alt="perf"/>
+</p>
+
+</td>
+<td align="center" width="25%">
+
+### **AI & Data**
+
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+</td>
+<td align="center" width="25%">
+
+### **Infrastructure**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
 </p>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+---
+
+<div align="center">
+
+## Research Interests
+
+</div>
+
+<br>
+
+<div align="center">
+
+Long-term interest in **systems research** — kernel architecture, HPC runtime design,  
+hardware-software co-optimization, and computational architecture.  
+Previously contributed to research on **evolutionary algorithms applied to photonic circuit optimization**  
+as part of the *Next-Gen Scientists* program.
+
+</div>
 
 <br>
 
@@ -202,26 +171,20 @@ Produced and presented a structured introduction to quantum computing fundamenta
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### **Short-Term**
+### **Near-Term**
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
-
-Secure an internship in a major tech company during my 4th–5th semester.
-
-</div>
+Continue building depth in systems engineering at Intel.  
+Ship meaningful contributions to production infrastructure.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### **Long-Term**
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px;">
-
-Pursue a research stay in **HPC or Quantum Computing** and continue advancing toward graduate studies.
-
-</div>
+Graduate research in **OS design**, **HPC**, or **computational architecture**.  
+Build a career at the hardware-software boundary.
 
 </td>
 </tr>
@@ -239,9 +202,11 @@ Pursue a research stay in **HPC or Quantum Computing** and continue advancing to
 
 <br>
 
-<div align="center" style="background-color: #f6f8fa; padding: 30px; border-radius: 10px; border-left: 4px solid #2E9EF7;">
+<div align="center">
 
-I enjoy building efficient systems, understanding how technology works at the lowest levels, and applying rigorous computational thinking to real problems. I care about clean architecture, performance, and technical depth.
+I care about how computers actually work — not just the abstractions on top.  
+I build systems where performance, correctness, and architectural clarity matter,  
+and I think the most interesting problems live close to the metal.
 
 </div>
 
@@ -251,22 +216,14 @@ I enjoy building efficient systems, understanding how technology works at the lo
 
 <div align="center">
 
-## Contact
-
-</div>
-
-<br>
-
-<div align="center">
-
 <a href="mailto:andresaugom@gmail.com">
 <img src="https://img.shields.io/badge/Email-andresaugom@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/andresaugom/">
 <img src="https://img.shields.io/badge/LinkedIn-andresaugom-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/andresaugom">
 <img src="https://img.shields.io/badge/GitHub-andresaugom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -276,7 +233,5 @@ I enjoy building efficient systems, understanding how technology works at the lo
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=andresaugom&color=2E9EF7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=andresaugom&color=0071C5&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
-
-
