@@ -13,8 +13,8 @@
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
-I build software where architecture decisions and hardware constraints actually matter.  
-Low-level systems, OS internals, and high-performance computing — closer to the metal.
+I like low level software, where architecture decisions and hardware constraints matter.  
+Low-level systems, OS internals, and high-performance computing. Closer to the metal.
 
 ---
 
@@ -39,13 +39,13 @@ $ cat /proc/current_role
 ```
 
 ```
-  ┌─ INTEL CORPORATION ──────────────────────────────────────────────┐
+  ┌─ INTEL CORPORATION ───────────────────────────────────────────────┐
   │                                                                   │
   │  Role:   Cloud Software Developer Engineer Intern                 │
   │  Stack:  Python, C++                                              │
   │  Focus:  Agentic AI workload analysis                             │
-  │          Profiling, characterizing, and optimizing how             │
-  │          AI-driven workloads behave at the systems level.          │
+  │          Profiling, characterizing, and optimizing how            │
+  │          AI-driven workloads behave at the systems level.         │
   │                                                                   │
   └───────────────────────────────────────────────────────────────────┘
 ```
@@ -99,8 +99,8 @@ priority    = build a career at the hardware-software boundary
 $ cat /etc/motd
 ```
 
-> I care about how computers actually work — not just the abstractions on top.  
-> I build systems where performance, correctness, and architectural clarity matter,  
+> I like to think like a computer; study it, understand it, think like it.
+> I love systems where performance, correctness, and architectural clarity are key,  
 > and I think the most interesting problems live close to the metal.
 
 ---
