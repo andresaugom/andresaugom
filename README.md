@@ -7,29 +7,31 @@
 │   $ cat /etc/role                                                    │
 │   Cloud Software Developer Engineer Intern @ Intel                   │
 │                                                                      │
-│   $ uname -a                                                         │
-│   CS Undergraduate | Systems Engineer | Arch Linux                   │
+│   $ cat /proc/edu                                                    │
+│   B.S. in Computer Science and Technology @ Tec de Monterrey         │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
-I like low level software, where architecture decisions and hardware constraints matter.  
-Low-level systems, OS internals, and high-performance computing. Closer to the metal.
+I live in a tmux session. 
+
+I love low level software, performance and to think in the architecture I write code on. 
+The more close to the metal, the more I like it. 
 
 ---
 
 ```
-$ cat /proc/focus
+$ ./show-interests.sh --brief
 ```
 
 ```
 AREA                          DESCRIPTION                              STATUS
 ────────────────────────────  ───────────────────────────────────────  ──────
-os-kernel-dev                 Linux internals, scheduling, mm, drivers [ACTIVE]
+os-kernel-dev                 Deeply interested in linux kernel        [ACTIVE]
+ai-systems-infrastructure     Automation, agentic AI pipelines, etc.   [ACTIVE]
+applied-mathematics           Apply math for problem modelling         [ACTIVE]
 high-performance-computing    Parallelism, vectorization, cache-aware  [ACTIVE]
 computational-architecture    ISA, microarch, memory hierarchies       [ACTIVE]
-ai-systems-infrastructure     Agentic workload analysis, ML pipelines  [ACTIVE]
-quantum-computing             Photonic circuit optimization (research) [BACKGROUND]
 ```
 
 ---
@@ -42,10 +44,9 @@ $ cat /proc/current_role
   ┌─ INTEL CORPORATION ───────────────────────────────────────────────┐
   │                                                                   │
   │  Role:   Cloud Software Developer Engineer Intern                 │
-  │  Stack:  Python, C++                                              │
-  │  Focus:  Agentic AI workload analysis                             │
-  │          Profiling, characterizing, and optimizing how            │
-  │          AI-driven workloads behave at the systems level.         │
+  │  Stack:  Python, C++, Javascript                                  │
+  │  Focus:  Workload development and simulation execution.           │
+  │          QA and Testing automation.                               │
   │                                                                   │
   └───────────────────────────────────────────────────────────────────┘
 ```
@@ -59,10 +60,10 @@ $ pacman -Q --explicit | grep "toolchain"
 ```
 LANGUAGES            SYSTEMS & PERF       AI & DATA            INFRA
 ──────────────────   ──────────────────   ──────────────────   ──────────────────
-C          ████████  Linux      ████████  PyTorch    ████████  Docker     ████████
-C++        ████████  Arch Linux ████████  NumPy      ██████░░  Git        ████████
-Python     ████████  GDB        ██████░░  Scikit-lr  ████░░░░  CMake      ██████░░
-Go         ████░░░░  perf       ████░░░░
+C          ████████  Linux      ████████  NumPy      ████████  Docker     ████████
+C++        ██████░░  GDB        ██████░░  Scikit-lr  ████░░░░  Git        ████████
+Python     ████░░░░  perf       █████░░░                       Make       ██████░░
+Javascript ███░░░░░                                            Kubernetes ████░░░░
 ```
 
 ---
@@ -70,40 +71,10 @@ Go         ████░░░░  perf       ████░░░░
 ```
 $ cat /proc/research
 ```
-
-Long-term interest in **systems research**: kernel architecture, HPC runtime design,  
-hardware-software co-optimization, and computational architecture.
+I'm interested in **mathematics and HPC**, and plan to do research on applied mathematics in CS or Performance Analysis.
 
 Previously contributed to research on evolutionary algorithms applied to photonic  
 circuit optimization (*Next-Gen Scientists* program).
-
----
-
-```
-$ cat /etc/goals.conf
-```
-
-```ini
-[near_term]
-description = Continue building depth in systems engineering at Intel
-priority    = ship meaningful contributions to production infrastructure
-
-[long_term]
-description = Graduate research in OS design, HPC, or computational architecture
-priority    = build a career at the hardware-software boundary
-```
-
----
-
-```
-$ cat /etc/motd
-```
-
-> I like to think like a computer; study it, understand it, think like it.
-> I love systems where performance, correctness, and architectural clarity are key,  
-> and I think the most interesting problems live close to the metal.
-
----
 
 ```
 $ cat /etc/contact.conf
